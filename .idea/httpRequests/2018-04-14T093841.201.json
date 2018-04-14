@@ -1,0 +1,7 @@
+{
+  "token": "JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YWQxYmUxMWU3YzJiZDE3MzBmOWQ2ZDgiLCJlbWFpbCI6Im1lQG1lLmNvbTEyIiwiaWF0IjoxNTIzNjk1MTIxLCJleHAiOjE1MjQyOTk5MjF9.MwYXIfR4_7oIggloNtCZ1lLdgmpuGCs4EZinpXIutu0",
+  "user": {
+    "_id": "5ad1be11e7c2bd1730f9d6d8",
+    "email": "me@me.com12"
+  }
+}
